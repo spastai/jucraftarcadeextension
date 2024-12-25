@@ -2,6 +2,6 @@
 namespace JuCraft {
     //% block
     export function showSteve() {
-        let mySprite = sprites.create(Player_013_0, SpriteKind.Player)
+        let mySprite = sprites.create(Player_013, SpriteKind.Player)
     }
 }
