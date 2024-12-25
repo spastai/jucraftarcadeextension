@@ -5,6 +5,7 @@
         "device": "*"
     },
     "files": [
+        "assets-steve.ts",
         "main.blocks",
         "main.ts",
         "README.md",
