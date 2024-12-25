@@ -2,7 +2,7 @@
 namespace JuCraft {
     //% block
     export function showSteve() {
-    let mySprite = sprites.create(img`
+        let mySprite = sprites.create(img`
         . . . . . . f f f f . . . . . . 
         . . . . f f f 2 2 f f f . . . . 
         . . . f f f 2 2 2 2 f f f . . . 
@@ -21,3 +21,4 @@ namespace JuCraft {
         . . . . . f f . . f f . . . . . 
         `, SpriteKind.Player)
     }
+}
